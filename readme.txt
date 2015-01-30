@@ -4,4 +4,4 @@ do something wrong.
 one line more.
 give you more one line.
 
-safe AND sound.
+safe and sound.
